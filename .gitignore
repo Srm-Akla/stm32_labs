@@ -1,0 +1,7 @@
+*/Debug
+*/Middlewares
+*/Drivers
+.vscode
+.settings
+*.ld
+
